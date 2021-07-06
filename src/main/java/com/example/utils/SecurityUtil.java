@@ -23,7 +23,7 @@ import java.util.Collection;
  * @Version 1.0
  **/
 @Component
-class SecurityUtil {
+public class SecurityUtil {
     private Logger logger = LoggerFactory.getLogger(SecurityUtil.class);
 
     @Autowired
